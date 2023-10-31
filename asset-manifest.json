@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tow-truck/static/css/main.04b4dbb4.css",
-    "main.js": "/tow-truck/static/js/main.a455f712.js",
+    "main.css": "/tow-truck/static/css/main.404e58c0.css",
+    "main.js": "/tow-truck/static/js/main.a9bac744.js",
     "static/media/tow_truck.png": "/tow-truck/static/media/tow_truck.721ebce35f2fbf9fc3a9.png",
     "static/media/whatsapp.png": "/tow-truck/static/media/whatsapp.02736a253111ffdfca0c.png",
     "static/media/phone.png": "/tow-truck/static/media/phone.7943f54a29a4184599e1.png",
@@ -10,11 +10,11 @@
     "static/media/free-truck.png": "/tow-truck/static/media/free-truck.243302e3051f75d7f2f5.png",
     "static/media/24-7.png": "/tow-truck/static/media/24-7.e6315952fb379fe149be.png",
     "index.html": "/tow-truck/index.html",
-    "main.04b4dbb4.css.map": "/tow-truck/static/css/main.04b4dbb4.css.map",
-    "main.a455f712.js.map": "/tow-truck/static/js/main.a455f712.js.map"
+    "main.404e58c0.css.map": "/tow-truck/static/css/main.404e58c0.css.map",
+    "main.a9bac744.js.map": "/tow-truck/static/js/main.a9bac744.js.map"
   },
   "entrypoints": [
-    "static/css/main.04b4dbb4.css",
-    "static/js/main.a455f712.js"
+    "static/css/main.404e58c0.css",
+    "static/js/main.a9bac744.js"
   ]
 }
